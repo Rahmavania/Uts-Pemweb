@@ -382,13 +382,11 @@ i {
     flex-wrap: wrap-reverse;
     row-gap: 15px;
     margin: auto;
-    background-color: #fff;
     padding: 20px;
 }
 
 .head {
     margin-top: 20px;
-    background-color: #fff;
     padding: 10px 20px;
 }
 
